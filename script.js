@@ -116,3 +116,4 @@ ${answers.tests}
 ## Questions
 * My repositories can be found at https://www.github.com/${answers.username}
 * For any questions regarding this application, you can email me at ${answers.email}`;
+}
